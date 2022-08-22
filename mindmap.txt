@@ -1,0 +1,15 @@
+@startmindmap
+* Engineering Career
+** IC Track (Individual Contributor)
+*** Product
+*** People
+*** Process
+*** Scope of Influence and Impact
+*** Technology
+** M Track (Manager)
+*** Product
+*** People
+*** Process
+*** Scope of Influence and Impact
+*** Technology
+@endmindmap
